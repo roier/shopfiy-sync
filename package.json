@@ -1,0 +1,16 @@
+{
+  "name": "shopify-sync",
+  "version": "1.0.0",
+  "description": "=== Shopify Sync === Contributors: roier Tags: shopify Requires at least: 4.6 Tested up to: 5.6 Stable tag: 0.0.1 License: GPLv2 or later",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start src/index --output-path=build --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^13.0.3"
+  }
+}

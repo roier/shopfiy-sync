@@ -1,0 +1,12 @@
+{
+  "name": "roier/shopify-sync",
+  "authors": [
+      {
+          "name": "Roier",
+          "email": "hello@roier.dev"
+      }
+  ],
+  "require": {
+      "guzzlehttp/guzzle": "~6.0"
+  }
+}
